@@ -1,8 +1,6 @@
 # Employee Task & Project Management Web Application
 
 > **Project:** Group Full-Stack Development Internship Major Project  
-> **Assigned Responsibility:** **MODULE 5 — DASHBOARD**  
-> **Maintainer / Lead Developer (Module 5):** Sanjay Kumar  
 > **Integrated Modules:** User Authentication (M1), Employee Management (M2), Project Management (M3), Task Management (M4), Dashboard (M5), Search & Filtering (M6), Database & REST API (M7).
 
 ---
